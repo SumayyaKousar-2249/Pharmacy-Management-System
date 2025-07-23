@@ -1,0 +1,23 @@
+# Ignore class files
+*.class
+
+# Ignore compiled jar files
+*.jar
+
+# Ignore log files
+*.log
+
+# Ignore OS files
+.DS_Store
+
+# Ignore IDE config files
+*.iml
+.idea/
+.vscode/
+out/
+bin/
+
+# Ignore backup files
+*.swp
+*.bak
+*~
