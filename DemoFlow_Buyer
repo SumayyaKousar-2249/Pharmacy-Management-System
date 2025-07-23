@@ -1,0 +1,56 @@
+1. Login
+2. Register
+Choose an option: 2
+Enter new username: tej
+Enter new password: 1234
+Enter role (seller/buyer): buyer
+Registration successful as buyer!
+1. Login
+2. Register
+Choose an option: 1
+Enter username: tej
+Enter password: 1234
+Login successful! Role: buyer
+
+--- Buyer Menu ---
+1. Display Medications
+2. Find Medication
+3. Order Medication
+4. View Orders
+5. Cancel Order
+6. Logout
+Choose an option: 1
+Current Medications:
+
+--- Buyer Menu ---
+1. Display Medications
+2. Find Medication
+3. Order Medication
+4. View Orders
+5. Cancel Order
+6. Logout
+Choose an option: 2
+Enter medication ID to find: 123
+Medication not found.
+
+--- Buyer Menu ---
+1. Display Medications
+2. Find Medication
+3. Order Medication
+4. View Orders
+5. Cancel Order
+6. Logout
+Choose an option: 3
+Enter medication ID to order: 34
+Enter quantity to order: 4
+Medication not found.
+
+--- Buyer Menu ---
+1. Display Medications
+2. Find Medication
+3. Order Medication
+4. View Orders
+5. Cancel Order
+6. Logout
+Choose an option: 6
+Logged out.
