@@ -1,0 +1,99 @@
+1. Login
+2. Register
+Choose an option: 2
+Enter new username: tej
+Enter new password: 12345
+Enter role (seller/buyer): seller
+Registration successful as seller!
+1. Login
+2. Register
+Choose an option: 1
+Enter username: tej
+Enter password: 12345567
+Invalid username or password.
+1. Login
+2. Register
+Choose an option: 2
+Enter new username: tej
+Enter new password: 1234
+Enter role (seller/buyer): seller
+Registration successful as seller!
+1. Login
+2. Register
+Choose an option: 1
+Enter username: tej
+Enter password: 1234
+Login successful! Role: seller
+
+--- Seller Menu ---
+1. Add Medication
+2. Update Stock
+3. Display Medications
+4. Logout
+Choose an option: 1
+Enter medication name: flucold
+Enter medication ID: 234
+Enter price: 124
+Enter stock quantity: 5
+Medication added: flucold
+
+--- Seller Menu ---
+1. Add Medication
+2. Update Stock
+3. Display Medications
+4. Logout
+Choose an option: 2
+Enter medication ID to update stock: 234
+Enter amount to add or subtract (negative to reduce): 44
+Stock updated for flucold: 49
+
+--- Seller Menu ---
+1. Add Medication
+2. Update Stock
+3. Display Medications
+4. Logout
+Choose an option: 3
+Current Medications:
+Medication{name='flucold', id='234', price=124.0, stock=49, rating=No rating yet}
+
+--- Seller Menu ---
+1. Add Medication
+2. Update Stock
+3. Display Medications
+4. Logout
+Choose an option: 4
+Logged out.
+PS C:\Users\kousa\OneDrive\Desktop\java>  c:; cd 'c:\Users\kousa\OneDrive\Desktop\java'; & 'C:\Program Files\Eclipse Adoptium\jdk-21.0.5.11-hotspot\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\kousa\AppData\Roaming\Code\User\workspaceStorage\f4c3e10af6aacb12c5cb58d0894bf139\redhat.java\jdt_ws\java_35ac05d1\bin' 'PharmacyManagement'
+1. Login
+2. Register
+Choose an option: 1
+Enter username: tej
+Enter password: 1234
+Invalid username or password.
+1. Login
+2. Register
+Choose an option: 1
+Enter username: tej
+Enter password: 1234
+Invalid username or password.
+1. Login
+2. Register
+Choose an option: 2
+Enter new username: tej
+Enter new password: 1234
+Enter role (seller/buyer): seller
+Registration successful as seller!
+1. Login
+2. Register
+Choose an option: 1
+Enter username: tej
+Enter password: 1234
+Login successful! Role: seller
+
+--- Seller Menu ---
+1. Add Medication
+2. Update Stock
+3. Display Medications
+4. Logout
+Choose an option: 4
+Logged out.
